@@ -58,7 +58,14 @@
 
 <br/> 
 
+<hr/>
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lianabhr&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
+</details>
+
   
+
 
 <br/>  
 
