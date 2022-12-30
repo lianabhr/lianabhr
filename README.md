@@ -1,8 +1,5 @@
-### <div align="left">I'm Liana, a data scientist graduate 👨‍💻 currently looking for a job 💼</div>  
-  
-
-- 🔭 I’m currently working on Walmart Store Sales Prediction.  
-  
+### <div align="left">I'm Liana, a data scientist fresh graduate 👨‍💻 currently looking for a job 💼</div>  
+    
 
 - 🌱 I’m currently learning Machine Learning.  
   
@@ -51,9 +48,7 @@
 <a href="https://github.com/lianabhr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/liana-al-bahri-sahbana📊-844389ba" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+ 
   
 
 <br/> 
